@@ -1,0 +1,17 @@
+//DISPLAYING
+.flex {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.flex--1 {
+    flex: 1;
+}
